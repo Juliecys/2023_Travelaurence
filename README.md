@@ -22,7 +22,7 @@ Develop with ethan890914 and ClipperSank.
     1. 在個人介面可以新增一個新的行程。
     2. 在行程規劃介面中，可以從願望清單中安排自己想要的行程在任意時段。
 
-- Note: 所有操作都必須先登入
+- Note：所有操作都必須先登入
 
 ## Steps To Run the Project
 
