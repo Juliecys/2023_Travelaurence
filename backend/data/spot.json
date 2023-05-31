@@ -1,0 +1,10 @@
+ [
+  { "name": "清水斷崖", "location": "972花蓮縣秀林鄉", "phone": "0912345678", "type": "scene", "pic": "https://www.hl-go.com.tw/images/beach.jpg"},
+  { "name": "國立臺灣大學", "location": "10617台北市大安區羅斯福路四段1號", "phone": "02 3366 3366", "type": "scene", "pic": "https://images.chinatimes.com/newsphoto/2021-11-04/656/20211104001129.jpg"},
+  { "name": "一中街夜市", "location": "404台中市北區一中街", "phone": "04 2223 7266", "type": "restaurant"},
+  { "name": "南寮魚鱗天梯", "location": "300新竹市北區新港路", "phone": "0912345678", "type": "scene"},
+  { "name": "陽明山國家公園", "location": "5HV6+M9 北投區 台北市", "phone": "02 2861 3601", "type": "scene"},
+  { "name": "大稻埕碼頭廣場", "location": "103台北市大同區", "phone": "0912345678", "type": "scene" },
+  { "name": "双生綠豆沙牛奶", "location": "700台南市中西區民族路二段281號", "phone": "06 221 0901", "type": "restaurant"},
+  { "name": "小北家灶咖ZAOKA", "location": "700台南市中西區郡緯街68號", "phone": "0912345678", "type": "restaurant", "pic": "https://tenjo.tw/webp/wp-content/uploads/20210801152539_69.jpg.webp"}
+]
